@@ -37,7 +37,7 @@ For instance, you can create a new hotkey with the following prompts.
 
 Then it will work. 
 
-Same methods can be applied to Markdown, you can have a try. 
+Same methods can be applied to Markdown, you can have a try, remember to modify the snippets.
 
 P.S. If you are using Windows/Linux, remember to replace **cmd** with **ctrl**.
 
